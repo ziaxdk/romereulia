@@ -1,0 +1,20 @@
+{
+  "name": "romereulia",
+  "version": "0.0.0",
+  "authors": [
+    "Kenneth <ziaxdk@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.6.0",
+    "webcomponentsjs": "~0.6.0",
+    "aurelia-bootstrapper": "~0.11.0"
+  }
+}

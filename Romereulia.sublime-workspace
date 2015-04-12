@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpsync"
+			],
+			[
+				"jas",
+				"jasmine-server"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Hello\n\nI want to complain about my rental in Italy. I've paid refuelling fee, which I got told in Pisa, that I should pay if I returned the car with empty tank. We refuelled the car completely 6 km before returning the car to Via Urbana 177 in Rome, and I asked your employee who handled to car at return, if the tank was ok, and he said: YES. As you can see on the attached picture, your employee wrote that the end kilometer was 2376km. How come the invoice say 2614-1936 = 678 KM? I demand that you return the refuelling fee of EUR80 as I think your employee is full of shit. Maybe he had driven for 238 km on my expense. If you ever want to see me as a customer again, you should refund the refuel fee. If I don't get it, I will tell everybody how you treat your customers. And post the story on different websites. SHAME ON YOU AVIS..\n\n\n\nffmpeg -i output.MP4 -filter:v \"setpts=0.06*PTS\" -an test2.mp4\n\nffmpeg -i output.MP4 -filter:v \"setpts=N/(50*50*TB)\" -an test2.mp4 - 1fps\nffmpeg -i output.MP4 -filter:v \"setpts=N/(50*10*TB)\" -an test2.mp4 - 5fps\nffmpeg -i output.MP4 -filter:v \"setpts=N/(50*2*TB)\" -an test2.mp4 -  25fps\n\n\nffmpeg -i output.MP4 -vf \"setpts=N/(50*10*TB), scale=640:-1\" -an test2.mp4\nffmpeg -i output.MP4 -vf \"setpts=N/(50*10*TB), scale=640:-1, fade=in:0:30\" -an test2.mp4\nffmpeg -ss 00:01:12 -i output.MP4 -vf \"setpts=N/(50*10*TB), scale=1280:-1\" -an test4.mp4\n\n",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"line_ending": "Windows",
+				"name": "Hello"
+			}
+		},
+		{
+			"contents": "\"aurelia-dependency-injection\",\"aurelia-binding\",\"aurelia-metadata\",\"aurelia-templating\",\"aurelia-loader\",\"aurelia-task-queue\",\"aurelia-logging\",\"aurelia-path\"\n",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Windows",
+				"name": "\"aurelia-dependency-injection\",\"aurelia-binding\",\""
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/src/examples/romereulia",
+		"/D/src/examples/romereulia/bower_components",
+		"/D/src/examples/romereulia/bower_components/aurelia-templating",
+		"/D/src/examples/romereulia/bower_components/aurelia-templating/dist",
+		"/D/src/examples/romereulia/bower_components/aurelia-templating/dist/commonjs"
+	],
+	"file_history":
+	[
+		"/D/src/examples/romereulia/.gitignore",
+		"/D/src/examples/romereulia/js/es6-module-loader.js",
+		"/D/src/examples/romereulia/js/system.js",
+		"/D/src/cnsunshine/src/www/index.html",
+		"/D/src/examples/framework/dist/commonjs/index.js",
+		"/D/src/examples/framework/dist/commonjs/aurelia.js",
+		"/D/src/examples/skeleton-navigation/config.js",
+		"/D/src/examples/skeleton-navigation/jspm_packages/github/aurelia/bootstrapper@0.11.0/index.js",
+		"/D/src/examples/bootstrapper/dist/commonjs/index.js",
+		"/D/Ziax/Downloads/vpnht-eu.ovpn",
+		"/D/Ziax/Downloads/nordvpn.pbk",
+		"/D/src/cnsunshine/src/server/tsd.json",
+		"/D/src/cnsunshine/typings/tsd.d.ts",
+		"/D/src/cnsunshineOLD/src/server/_references.ts",
+		"/D/src/cnsunshine/src/server/typings/tsd.d.ts",
+		"/D/src/cnsunshine/tsd.json",
+		"/D/src/cnsunshine/README.md",
+		"/D/Ziax/Desktop/Storage.ts",
+		"/D/Ziax/Desktop/SetupDataService.ts",
+		"/D/Ziax/Desktop/elasticsearch-1.5.0/config/elasticsearch.yml",
+		"/D/Ziax/Desktop/elasticsearch-1.5.0/bin/elasticsearch.bat",
+		"/I/ttgo.bif",
+		"/D/Ziax/Desktop/pyload-v0.4.9-win/pyload/data/Downloads/an8kw1183hct764/Europe_945_6175.part01.rar",
+		"/C/Users/kenne_000/AppData/Local/Popcorn Time/src/app/index.html",
+		"/C/Program Files (x86)/GoPro/Tools/Importer/GoPro Importer.exe.config",
+		"/home/ziax/src/cnsunshine/lib/gulp-express.js",
+		"/home/ziax/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ziax/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ziax/src/cnsunshine/README.md",
+		"/home/ziax/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ziax/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ziax/src/cnsunshine/src/server/server.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Student"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2434,
+								2434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1315,
+								1315
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Hello",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								160
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\"aurelia-dependency-injection\",\"aurelia-binding\",\"",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Romereulia.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
